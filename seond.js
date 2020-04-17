@@ -79,3 +79,26 @@ NaN
 NaN
 'a'-1
 NaN
+
+var a = true
+var b = true
+var a = true
+var b = true
+undefined
+a+b
+2
+var c = 'true'
+undefined
+var d = 10
+undefined
+a+d
+11
+a-d
+-9
+a+c
+"truetrue"
+c-c
+NaN
+
+true 1 
+false = 00
