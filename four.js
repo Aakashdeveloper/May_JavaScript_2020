@@ -131,3 +131,60 @@ city.replace(/i /g,'a')
 "  Helsinka. "
 city.replace(/ /g,'').replace(/i/g,'a')
 "Helsanka."
+
+slice
+substring
+substr
+
+
+var a = "javascript"
+undefined
+a.slice(2)
+"vascript"
+a.slice(3)
+"ascript"
+a.slice(2,5)
+"vas"
+/*
+Slice(start,end)
+>if first value is -ve than output is null
+>if first positive and second -ve and remove from both direction
+
+Substring(start,end)
+> -ve value is ignored
+
+Substr(start,length)
+> if only one value and that is -ve it start from backward
+*/
+var a = "javascript"
+undefined
+a.substring(2)
+"vascript"
+a.substring(2,5)
+"vas"
+var a = "javascript"
+undefined
+a.substr(1)
+"avascript"
+a.substr(2,5)
+"vascr"
+var a = "javascript"
+undefined
+a.slice(2,-2)
+"vascri"
+a.slice(-2,2)
+""
+a.substring(2,-2)
+"ja"
+a.substring(-2,2)
+"ja"
+a.substring(-2,2)
+"ja"
+a.substr(1,-3)
+""
+a.substr(-1,2)
+"t"
+a.substr(-4)
+"ript"
+a.substr(-4,-1)
+""
