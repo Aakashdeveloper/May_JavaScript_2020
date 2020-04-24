@@ -9,13 +9,14 @@ Ecma 6
 > Date
 > switch
 > localstorage
-///////////////////////
 > array
 > loops
+> String literals
+> functions 
+///////////////////////
 > Es6
     > lat, const
     > maps,filter
-> functions 
 > Clousers
 > regex
 > Hoisting
