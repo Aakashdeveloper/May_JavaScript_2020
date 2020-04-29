@@ -1,6 +1,7 @@
 Ecma Script
 Ecma 5
 Ecma 6
+Ecma 7
 > variable
 > Operations
 > condition
@@ -17,15 +18,18 @@ Ecma 6
     > lat, const
     > maps,filter
 > Clousers
-///////////////////////
 > regex
 > Hoisting
+////////////////////////////
 > object 
+> this 
 > Transpile
 > Es6
     > classes
     > import export
+
 > Prototypes
+///////
 > DoM
 > Geolocation
 > Form validation
@@ -38,6 +42,7 @@ Ecma 6
 > ajax
 > Baisc Jquery
 > Progress bar
+> Dynamic DropDown
 -------------------------
 > JSON
 > Github

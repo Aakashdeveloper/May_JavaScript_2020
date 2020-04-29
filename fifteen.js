@@ -18,7 +18,7 @@ add('a','a')
 "aa"
 
 
-//method
+//method es5
 
 var isEven = function(userInput){
     var output;
@@ -35,7 +35,7 @@ isEven(10)
 "Number is even"
 
 
-//arrow function
+//arrow function es6
 var isEven = (userInput) => {
     var output;
     if(userInput%2==0){
