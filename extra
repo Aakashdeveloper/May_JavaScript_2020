@@ -22,16 +22,15 @@ Ecma 7
 > Hoisting
 > object 
 > this 
-////////////////////////////
 > Transpile
 > Es6
     > classes
     > import export
 
 > Prototypes
-///////
 > DoM
 > Geolocation
+//////////////////
 > Form validation
 > Event
 > Calc
