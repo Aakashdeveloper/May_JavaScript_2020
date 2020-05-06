@@ -34,10 +34,10 @@ Ecma 7
 > Event
 > Calc
 > Progress bar
-//////////////////
 > currenyConvertor
 > promis
 > async await
+//////////////////
 > Weather application
 > ajax
 > Baisc Jquery
@@ -53,3 +53,20 @@ https://nodejs.org/en/
 
 
 //
+first time
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/testgit.git
+git push -u origin master
+
+all next time
+
+git add .
+git commit -m "first commit"
+git push 
+
+ git checkout -b testfeature
+ git add .
+ git commit -m "a"
+ git push -u origin testfeature
