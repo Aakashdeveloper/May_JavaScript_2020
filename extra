@@ -37,10 +37,10 @@ Ecma 7
 > currenyConvertor
 > promis
 > async await
-//////////////////
 > Weather application
 > ajax
 > Baisc Jquery
+//////////////////
 > Dynamic DropDown
 -------------------------
 > JSON
@@ -70,3 +70,5 @@ git push
  git add .
  git commit -m "a"
  git push -u origin testfeature
+
+ git remote -v
